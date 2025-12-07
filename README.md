@@ -11,8 +11,8 @@ How to Run the Code:
 
 1. Make sure that the running environment has numPy and matplot lib. I used venv (virtual environment) and downloaded them on WSL Ubuntu, but I think any environment with these installed should work
 2. Run python3 paper_implementation.py
-3. The code should terminate after printing Finished! Image should be saved in same directory as Figure9&11.png
-4. The resulting image should be saved to the current directory of wherever the code was run
+3. The code should terminate after printing "Finished! Image should be saved in same directory as Figure9&11.png"
+4. The resulting image should be saved to the current directory of wherever the code was run as Figure9&11.png
 
 Time to Run:
 ~30 seconds
