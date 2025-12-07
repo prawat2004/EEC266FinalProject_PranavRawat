@@ -1,6 +1,7 @@
 # EEC266FinalProject_PranavRawat
 
-Sources Cited:
+Sources Used for this Project:
+
 "An Information-Theoretic Perspective on Successive Cancellation List Decoding and Polar Code Design” by Coskun and Pfister
 
 "Channel polarization: A method for constructing capacity-achieving codes for symmetric binary-input memoryless channels" by Arikan
